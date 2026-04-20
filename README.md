@@ -1,4 +1,4 @@
-# python-snake-game-
-this is a repo of a python snake game 
+# python-todolist
+this is a repo of a python to do list 
 
 updating project....
