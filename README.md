@@ -1,4 +1,4 @@
-# python-todolist
-this is a repo of a python to do list 
+# python-notepad
+this is a repo of a python notepad
 
 updating project....
